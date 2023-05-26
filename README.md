@@ -45,8 +45,9 @@ Certainly! Here's an example of how you can write the instructions in the GitHub
 This repository contains code for predicting gold prices using deep learning and machine learning models. The prediction results for both 1-day and 7-day horizons can be obtained by following these steps:
 
  1. Open the Jupyter Notebook `Gold_Prediction_Project_1day.ipynb` for 1-day prediction or `Gold_Prediction_Project_7day.ipynb` for 7-day prediction in google colab, anaconda or any python program.
-
-5. Run the notebook cells to execute the code and generate the prediction results.
+ 2. Download the project dataset from the provided link: Gold Prediction Dataset.xlsx.
+ 3. Place the downloaded dataset file (Gold Prediction Dataset.xlsx) in the root directory of the repository.
+ 4. Run the notebook cells to execute the code and generate the prediction results.
 
 ### Research Reports
 
