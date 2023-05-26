@@ -35,3 +35,31 @@ The research utilizes two main predictors for gold price prediction:
 3. Evaluate and compare the performance of the models using technical analysis predictors, economic variables, and a combination of both.
 
 By investigating these objectives, the research aims to enhance our understanding of the factors influencing gold prices and the effectiveness of different prediction models.
+
+Certainly! Here's an example of how you can write the instructions in the GitHub README.md format:
+
+## Instructions
+
+### Gold Price Prediction
+
+This repository contains code for predicting gold prices using deep learning and machine learning models. The prediction results for both 1-day and 7-day horizons can be obtained by following these steps:
+
+ 1. Open the Jupyter Notebook `Gold_Prediction_Project_1day.ipynb` for 1-day prediction or `Gold_Prediction_Project_7day.ipynb` for 7-day prediction in google colab, anaconda or any python program.
+
+5. Run the notebook cells to execute the code and generate the prediction results.
+
+### Research Reports
+
+For detailed information about the research project and its findings, please refer to the research reports provided:
+
+- [Gold Prediction Research Project.pdf](https://github.com/your-username/gold-prediction/blob/main/Gold%20Prediction%20Research%20Project.pdf)
+
+These reports contain insights on the influence of economic variables, the effectiveness of different models, and the correlation analysis between gold prices and various factors and many more.
+
+Feel free to explore the code and reports to gain a deeper understanding of the research project and its results.
+
+If you encounter any issues or have questions, please open an issue in the repository or contact the project contributors.
+
+Enjoy exploring the gold price prediction project and the research findings!
+
+**Note:** The prediction results are for informational purposes only and should not be considered as financial advice.
