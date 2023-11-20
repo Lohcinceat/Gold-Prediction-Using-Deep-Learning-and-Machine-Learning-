@@ -36,7 +36,6 @@ The research utilizes two main predictors for gold price prediction:
 
 By investigating these objectives, the research aims to enhance our understanding of the factors influencing gold prices and the effectiveness of different prediction models.
 
-Certainly! Here's an example of how you can write the instructions in the GitHub README.md format:
 
 ## Instructions
 
